@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Andreamsofcake/my-project/issues"
   },
-  "homepage": "https://github.com/Andreamsofcake/my-project"
+  "homepage": "https://github.com/Andreamsofcake/my-project",
+  "dependencies": {
+    "commander": "^2.3.0"
+  }
 }
