@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "jsi calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andreamsofcake/my-project.git"
+  },
+  "author": "Andrea Moulding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreamsofcake/my-project/issues"
+  },
+  "homepage": "https://github.com/Andreamsofcake/my-project"
+}
